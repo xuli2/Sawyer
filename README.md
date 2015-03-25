@@ -1,1 +1,1 @@
-# Sawyer
+# Project Sawyer is a python based numerical analysis library designed for physics calculation. The method and algorithm is taken from University of Illinois At Urbana-Champaign, Course CS450:Numerical analysis, and NYU graduate course Computational Physics.
